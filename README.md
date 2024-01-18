@@ -1,1 +1,1 @@
-[load dino game](data:text/plain,test)
+[load dino game](http://data:text/plain,test)
